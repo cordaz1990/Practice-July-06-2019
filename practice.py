@@ -8,3 +8,10 @@ else:
   else:
     print('x is greater than y')
   
+
+if 0 < x: 
+   if x < 10:
+      print('x is a positive single-digitnumber.')
+      
+if 0 < x and x < 10:
+   print('x is a positive single-digit number.')
